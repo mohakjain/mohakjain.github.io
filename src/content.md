@@ -8,11 +8,11 @@ I write about startups, technology, culture, and more on my blog, <a href="https
 
 ### ➔ Work -- <a href="./mohakjainresume.pdf" target="_blank">Resume</a>
 
-I'm currently building <a href="https://twitter.com/mohakjain_" target="_blank">Health Engine</a>: a UC Berkeley-based startup accelerator dedicated to early-stage projects in healthcare.
+I'm currently building <a href="https://www.readysethealth.io/" target="_blank">Health Engine</a>: a UC Berkeley-based startup accelerator dedicated to early-stage projects in healthcare.
 
-Previously I did full-stack software engineering as an intern at <a href="https://twitter.com/mohakjain_" target="_blank">Datavant</a>, computational and wet-lab research at the <a href="https://twitter.com/mohakjain_" target="_blank">Doudna Lab</a>, machine learning research at <a href="https://twitter.com/mohakjain_" target="_blank">UCSF (Goodarzi Lab)</a>, and interned at <a href="https://twitter.com/mohakjain_" target="_blank">enEvolv, Inc.</a>.
+Previously I did full-stack software engineering as an intern at <a href="https://datavant.com/" target="_blank">Datavant</a>, computational and wet-lab research at the <a href="https://doudnalab.org/" target="_blank">Doudna Lab</a>, machine learning research at <a href="https://goodarzilab.ucsf.edu/" target="_blank">UCSF (Goodarzi Lab)</a>, and interned at <a href="https://www.businesswire.com/news/home/20200319005183/en/Zymergen-Announces-Acquisition-of-enEvolv-Accelerating-Ability-to-Deliver-High-Value-Products-to-Market" target="_blank">enEvolv, Inc.</a>.
 
-I've done business consulting projects as part of <a href="https://twitter.com/mohakjain_" target="_blank">Phoenix Consulting Group</a> for a variety of healthcare and biotechnology companies. This includes VC (Lifespan Biolabs), startups (Pinpoint Biosciences, Mission Bio), corporations (Myriad Genetics), and non-profits (Mental Health America).
+I've done business consulting projects as part of <a href="https://phoenix.berkeley.edu/" target="_blank">Phoenix Consulting Group</a> for a variety of healthcare and biotechnology companies. This includes VC (Lifespan Biolabs), startups (Pinpoint Biosciences, Mission Bio), corporations (Myriad Genetics), and non-profits (Mental Health America).
 
 ### ➔ Connect
 I recommend reaching out on Twitter or at mohakjain 'at' berkeley 'dot' edu.
