@@ -1,0 +1,16 @@
+.centerBox {
+  display: flex;
+}
+
+.imageBox {
+  padding: 3rem;
+  margin-top: 5rem;
+}
+
+.image {
+  width: 16rem;
+  object-fit: cover;
+  clip-path: circle(8rem at center);
+  /* can we change to SVG later? */
+  height: 16rem;
+}
