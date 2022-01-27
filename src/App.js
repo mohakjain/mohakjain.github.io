@@ -13,13 +13,16 @@ const App = () => {
   })
 
   return (
-    <div>
+    <div >
+    
     <div className="centerBox">
-    <div><Markdown children={content} /></div>
     <div className="imageBox">
       <img className="image" src="./pfp.jpg" alt=""/>
     </div>
+    <div><Markdown  children={content} /></div>
+    
     </div>
+    
     <br/>
     </div>
     )
