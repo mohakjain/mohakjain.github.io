@@ -1,11 +1,26 @@
 .centerBox {
   display: flex;
+  width: 75%;
 }
+
+
 
 .imageBox {
   padding: 3rem;
   margin-top: 5rem;
 }
+
+@media only screen and (max-width: 1000px) {
+  .imageBox {
+    margin: 1rem 1rem 1rem 1rem;
+    
+  }
+  .centerBox {
+    display: block;
+    width: 100%;
+  }
+}
+
 
 .image {
   width: 16rem;
