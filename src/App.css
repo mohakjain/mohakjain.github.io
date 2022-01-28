@@ -12,7 +12,8 @@
 
 @media only screen and (max-width: 1000px) {
   .imageBox {
-    margin: 1rem 1rem 1rem 1rem;
+    margin-top: 0rem;
+    text-align: center;
     
   }
   .centerBox {
