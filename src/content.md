@@ -1,6 +1,6 @@
 # Mohak Jain <img className="" src="./simple-logo.png" alt="" height="50rem"/>
 
-I'm a recent UC Berkeley graduate interested in emerging tech in biotechnology and healthcare. Specifically, I'm looking for opportunites in software and venture capital.
+I'm a recent UC Berkeley graduate interested in emerging tech in biotechnology and healthcare. I'm interested in using software to make biological research and healthcare delivery more efficient, and have a soft spot for startups and VC.
 
 ### ➔ Writing
 I write about startups, technology, culture, and more on my blog, <a href="https://mohakjain.substack.com/" target="_blank">Art & Artifice</a>.
