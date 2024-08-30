@@ -27,6 +27,7 @@ Other Stuff:
 
 Artifice:
 
+- <a href="https://mohakjain.substack.com/p/the-synthetic-biology-graveyard" target="_blank">The Synthetic Biology Graveyard</a>
 - <a href="https://mohakjain.substack.com/p/three-reasons-why-biomanufacturing" target="_blank">Three Reasons Why Biomanufacturing Matters</a>
 - <a href="https://mohakjain.substack.com/p/scaling-up-synthetic-biologys-bottleneck" target="_blank">Scaling Up: Synthetic Biology's Bottleneck</a>
 - <a href="https://mohakjain.substack.com/p/synthetic-biology-and-solarpunk-futures" target="_blank">Synthetic Biology & Solarpunk Futures</a>
