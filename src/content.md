@@ -2,7 +2,7 @@
 
 San Francisco, CA
 
-Graduated from UC Berkeley (EECS & Bioengineering 2022)
+UC Berkeley Class of 2022 EECS & Bioengineering
 
 ## Writing
 
@@ -22,6 +22,10 @@ Other Stuff:
 - <a href="https://mohakjain.substack.com/p/starting-health-engine-a-startup" target="_blank">Building Health Engine, a startup accelerator</a>
 - <a href="https://mohakjain.substack.com/p/we-already-live-in-the-metaverse" target="_blank">We Already Live in the Metaverse</a>
 
+Short Story:
+
+- <a href="https://mohakjain.substack.com/p/guac-costs-extra" target="_blank">Guac Costs Extra</a>
+
 </div>
 <div style="flex: 1; padding-left: 1rem;">
 
@@ -33,26 +37,20 @@ Artifice:
 - <a href="https://mohakjain.substack.com/p/synthetic-biology-and-solarpunk-futures" target="_blank">Synthetic Biology & Solarpunk Futures</a>
 - <a href="https://mohakjain.substack.com/p/plant-based-food-needs-to-be-bold" target="_blank">Plant-based Food Needs To Be Bold</a>
 
-Short Story:
-
-- <a href="https://mohakjain.substack.com/p/guac-costs-extra" target="_blank">Guac Costs Extra</a>
-
 </div>
 </div>
 
 ## Work
 
-I'm a software engineer.
-
-- Currently at <a href="https://verily.com/" target="_blank">Verily</a> (Google Life Sciences), where I work on flexible patient enrollment.
-- I co-founded <a href="https://www.readysethealth.io/" target="_blank">Health Engine</a>: a UC Berkeley-based startup accelerator dedicated to early-stage projects in healthcare.
-- Did computational and wet-lab research at the <a href="https://doudnalab.org/" target="_blank">Doudna Lab</a>,
-- Healthcare consulting as part of <a href="https://phoenix.berkeley.edu/" target="_blank">Phoenix Consulting Group</a>
-- I interned at <a href="https://www.businesswire.com/news/home/20200319005183/en/Zymergen-Announces-Acquisition-of-enEvolv-Accelerating-Ability-to-Deliver-High-Value-Products-to-Market" target="_blank">enEvolv, Inc.</a> and at <a href="https://datavant.com/" target="_blank">Datavant</a>
+- Current: Software engineer at <a href="https://verily.com/" target="_blank">Verily</a> (Google Life Sciences), where I work on patient enrollment
+- Co-founded <a href="https://www.readysethealth.io/" target="_blank">Health Engine</a>: a UC Berkeley-based startup accelerator dedicated to early-stage projects in healthcare
+- Did computational and wet-lab CRISPR research at the <a href="https://doudnalab.org/" target="_blank">Doudna Lab</a>
+- Did healthcare & biotech consulting as part of <a href="https://phoenix.berkeley.edu/" target="_blank">Phoenix Consulting Group</a>
+- Interned at <a href="https://www.businesswire.com/news/home/20200319005183/en/Zymergen-Announces-Acquisition-of-enEvolv-Accelerating-Ability-to-Deliver-High-Value-Products-to-Market" target="_blank">enEvolv, Inc.</a> (synthetic bio startup) and at <a href="https://datavant.com/" target="_blank">Datavant</a> (health data startup)
 
 ## Bookshelf
 
-I actually find myself checking out people's shelves all the time. I'm a pretty big literature nerd, here's a slice of what I've enjoyed:
+I find myself perusing people's bookshelves often when I visit their homes. Please send recommendations. I am partial to very long books. A slice of what I've enjoyed reading:
 
 <div style="display: flex; justify-content: space-between;">
 
@@ -79,17 +77,17 @@ I actually find myself checking out people's shelves all the time. I'm a pretty 
 
 ## Record Crate
 
-I am an even bigger music nerd; here are some of my favorite albums:
+Some of my favorite albums:
 
 <div style="display: flex; justify-content: space-between;">
 
 <div style="flex: 1; padding-right: 1rem;">
 
+- _The College Dropout_ by Kanye West (2004)
 - _Merriweather Post Pavilion_ by Animal Collective (2009)
 - _Cosmogramma_ by Flying Lotus (2010)
 - _Vertigo_ by EDEN (2018)
-- _NFR_ by Lana Del Rey (2019)
-- _The College Dropout_ by Kanye West (2004)
+- _Norman Fucking Rockwell!_ by Lana Del Rey (2019)
 - _Hi This is Flume_ by Flume (2019)
 - _Punisher_ by Phoebe Bridgers (2020)
 - _Since I Left You_ by The Avalanches (2000)
@@ -109,6 +107,7 @@ I am an even bigger music nerd; here are some of my favorite albums:
 - _To Pimp a Butterfly_ by Kendrick Lamar (2015)
 - _Daytona_ by Pusha T (2018)
 - _Channel Orange_ by Frank Ocean (2012)
+- _food house_ by food house (2020)
 
 </div>
 
@@ -116,7 +115,7 @@ I am an even bigger music nerd; here are some of my favorite albums:
 
 ## Connect
 
-I recommend reaching out at mohakjain 'at' berkeley 'dot' edu or twitter.
+I recommend reaching out at mohakjain 'at' berkeley 'dot' edu or on Twitter.
 
 Find me on
 <a href="https://twitter.com/mohakjain_" target="_blank">Twitter</a>,
