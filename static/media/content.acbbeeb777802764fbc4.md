@@ -1,8 +1,6 @@
 # Mohak Jain <img className="" src="./simple-logo.png" alt="" height="50rem"/>
 
-San Francisco, CA
-
-UC Berkeley Class of 2022 EECS & Bioengineering
+New York City
 
 ## Writing
 
@@ -42,15 +40,17 @@ Artifice:
 
 ## Work
 
-- Current: Software engineer at <a href="https://verily.com/" target="_blank">Verily</a> (Google Life Sciences), where I work on patient enrollment
+- Current: forward-deployed software engineer at <a href="https://www.geckorobotics.com/"  target="_blank">Gecko Robotics</a> where I work on industrial maintenance and reliability.
 - Co-founded <a href="https://www.readysethealth.io/" target="_blank">Health Engine</a>: a UC Berkeley-based startup accelerator dedicated to early-stage projects in healthcare
+- Formerly software engineer at <a href="https://verily.com/" target="_blank">Verily</a> (Google Life Sciences) on patient enrollment
 - Did computational and wet-lab CRISPR research at the <a href="https://doudnalab.org/" target="_blank">Doudna Lab</a>
 - Did healthcare & biotech consulting as part of <a href="https://phoenix.berkeley.edu/" target="_blank">Phoenix Consulting Group</a>
 - Interned at <a href="https://www.businesswire.com/news/home/20200319005183/en/Zymergen-Announces-Acquisition-of-enEvolv-Accelerating-Ability-to-Deliver-High-Value-Products-to-Market" target="_blank">enEvolv, Inc.</a> (synthetic bio startup) and at <a href="https://datavant.com/" target="_blank">Datavant</a> (health data startup)
+- UC Berkeley Class of 2022, I studied EECS and bioengineering
 
 ## Bookshelf
 
-I find myself perusing people's bookshelves often when I visit their homes. Please send recommendations. I am partial to very long books. A slice of what I've enjoyed reading:
+I like to peruse people's bookshelves. A slice of what I've enjoyed reading:
 
 <div style="display: flex; justify-content: space-between;">
 
@@ -67,9 +67,10 @@ I find myself perusing people's bookshelves often when I visit their homes. Plea
 <div style="flex: 1; padding-left: 1rem;">
 
 - _Gödel, Escher, Bach: An Eternal Golden Braid_ by Douglas Hofstadter (1979)
-- _Sun and Steel_ by Yukio Mishima (1970)
+- _To The Lighthouse_ by Virginia Woolf (1927)
 - _The Catcher in the Rye_ by J.D. Salinger (1951)
 - _The Three-Body Problem_ series by Liu Cixin (2008-2010)
+- I caved and made a <a href="https://www.goodreads.com/user/show/152509039-mohak" target="_blank"> goodreads </a>
 
 </div>
 
@@ -104,7 +105,7 @@ Some of my favorite albums:
 - _Art Angels_ by Grimes (2015)
 - _Alvvays_ by Alvvays (2014)
 - _This is Why_ by Paramore (2023)
-- _To Pimp a Butterfly_ by Kendrick Lamar (2015)
+- _Teen Dream_ by Beach House (2010)
 - _Daytona_ by Pusha T (2018)
 - _Channel Orange_ by Frank Ocean (2012)
 - _food house_ by food house (2020)
@@ -115,7 +116,7 @@ Some of my favorite albums:
 
 ## Connect
 
-I recommend reaching out at mohakjain 'at' berkeley 'dot' edu or on Twitter.
+I recommend reaching out at mohakjain 'at' berkeley 'dot' edu.
 
 Find me on
 <a href="https://twitter.com/mohakjain_" target="_blank">Twitter</a>,
