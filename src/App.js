@@ -18,7 +18,7 @@ const App = () => {
     <div>
       <div className="centerBox">
         <div className="imageBox">
-          <img className="image" src="./pfp.jpeg" alt="" />
+          <img className="image" src="./pfp.jpg" alt="" />
         </div>
         <div>
           <Markdown children={content} />
